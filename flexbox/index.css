@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+  
+ 
+}
+/* .normal {
+  flex: 1 1 250px;
+}
+.big {
+  flex: 1 1 350px;
+} */
