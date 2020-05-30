@@ -1,3 +1,11 @@
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.outer {
+    display: grid;
+    grid-column: 10% auto 10%;
+}
 .container > div {
     display: flex;
     justify-content: center;
