@@ -1,17 +1,24 @@
 .container {
+  padding: 10%;
   display: flex;
   flex-wrap: wrap;
+  /* justify-content: center; */
 }
 
-.img {
-  width: 100px;
-  height: 100px;
-  
- 
+.container > div {
+  /* positioning */
+  flex-grow: 1;
+  overflow: hidden;
+  height: 200px;
+  margin: 5px;
+
+  /* styling */
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px 2px rgba(0,0,0,0.15);
 }
-/* .normal {
-  flex: 1 1 250px;
+
+img {
+  max-height: 100%;
+  min-width: 100%;
+  object-fit: cover;
 }
-.big {
-  flex: 1 1 350px;
-} */
