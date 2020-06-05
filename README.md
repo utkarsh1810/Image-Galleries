@@ -1,5 +1,5 @@
 # Image-Gallery
-Two image gallery devloped using css topics flexbox and grid.
+Two image gallery developed using css topics flexbox and grid.
 Both are separated into two different folders with basic page styling in basic.css and gallery styling in index.css
 
 # Flexbox-image-gallery
