@@ -13,5 +13,5 @@ img
 # License
 
 This project is licensed under MIT Licence 
-read this(https://github.com/utkarsh1810/Development-trashs/community/license/new?branch=master) for more details.
+read [this](https://github.com/utkarsh1810/Development-trashs/community/license/new?branch=master) for more details.
 
