@@ -4,7 +4,7 @@ Both are separated into two different folders with basic page styling in basic.c
 
 # Flexbox-image-gallery
 
-<img src="Screenshots/Flexbox-image-gallery.png"/>
+<img src="Screenshots/flexbox-image-gallery.png"/>
 
 # Grid-image-galllery
 
