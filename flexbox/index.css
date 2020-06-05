@@ -1,5 +1,11 @@
+h1{
+  text-align: center;
+  padding-top: 5%;
+  margin-bottom: -2%;
+}
+
 .container {
-  padding: 10%;
+  padding: 4% 10% 10% 10%;
   display: flex;
   flex-wrap: wrap;
   /* justify-content: center; */
