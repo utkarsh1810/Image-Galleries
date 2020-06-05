@@ -4,11 +4,11 @@ Both are separated into two different folders with basic page styling in basic.c
 
 # Flexbox-image-gallery
 
-img
+<img src="Screenshots/Flexbox-image-gallery.png"/>
 
 # Grid-image-galllery
 
-img
+<img src="Screenshots/grid-image-gallery.png"/>
 
 # License
 
